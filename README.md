@@ -4,11 +4,15 @@
 Mitt namn är Natalie och jag är junior utvecklare som genom studier håller på att bredda mina kunskaper ännu mer.
 
 
-
 ## 🎯 Mål
 
 Mitt mål är att fortsätta utveckla en bred teknisk kompetens och arbeta som en problemlösande utvecklare.
 Jag har erfarenhet av att bygga fullstack-projekt och strävar efter att fördjupa mina kunskaper ytterligare, särskilt inom backend och cloud, för att kunna skapa robusta och skalbara lösningar.
+
+## 📫 Kontakt
+
+💼 LinkedIn: www.linkedin.com/in/natalie-hällerdal-4b2a9499
+📧 Email: natalie.hallerdal@.com
 
 
 <!--
