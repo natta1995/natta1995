@@ -1,19 +1,26 @@
 
-# 👋😊 Hej och välkommen till min GitHub-sida.
+# 👋😊 Hi and welcome to my GitHub page.
 
-Mitt namn är Natalie och jag är junior utvecklare som genom studier håller på att bredda mina kunskaper ännu mer.
+My name is Natalie, and I am a developer currently expanding my skills through continuous learning and hands-on practice. I have a strong interest in security and enjoy building solutions that are not only functional, but also secure and reliable.
 
+---
 
-## 🎯 Mål
+## 🧠 Philosophy
 
-Mitt mål är att fortsätta utveckla en bred teknisk kompetens och arbeta som en problemlösande utvecklare.
-Jag har erfarenhet av att bygga fullstack-projekt och strävar efter att fördjupa mina kunskaper ytterligare, särskilt inom backend och cloud, för att kunna skapa robusta och skalbara lösningar.
+Code. Learn. Improve. Repeat.
 
-## 📫 Kontakt
+---
 
-💼 LinkedIn: www.linkedin.com/in/natalie-hällerdal-4b2a9499
+## 🎯 Goal
 
-📧 Email: natalie.hallerdal@.com
+I enjoy solving problems and building systems that work in real-world scenarios. My goal is to keep growing technically, broaden my skill set, and create robust and secure solutions across frontend, backend, and cloud technologies.
+
+---
+
+## 📫 Contact
+
+💼 LinkedIn: https://www.linkedin.com/in/natalie-hällerdal-4b2a9499
+📧 Email: [natalie.hallerdal@.com](mailto:natalie.hallerdal@.com)
 
 
 <!--
