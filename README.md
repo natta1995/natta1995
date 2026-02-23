@@ -12,6 +12,7 @@ Jag har erfarenhet av att bygga fullstack-projekt och strävar efter att fördju
 ## 📫 Kontakt
 
 💼 LinkedIn: www.linkedin.com/in/natalie-hällerdal-4b2a9499
+
 📧 Email: natalie.hallerdal@.com
 
 
